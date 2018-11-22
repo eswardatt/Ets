@@ -1,2 +1,1 @@
-Hiii lets start git
-starting git hub from basics
+hi iam eswar datta
